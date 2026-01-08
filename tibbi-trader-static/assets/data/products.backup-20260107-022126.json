@@ -1,0 +1,763 @@
+﻿[
+  {
+    "id": "UC-50-STD",
+    "name": "Urine Container 50ml",
+    "brand": "Third-party",
+    "category": "Sample Collection",
+    "subcategory": "Urine",
+    "description": "Wide-mouth, leak-resistant container for routine urine collection.",
+    "specs": {
+      "Material": "PP",
+      "Volume": "50 ml",
+      "Sterility": "Non-sterile"
+    },
+    "priceExGst": 7.5,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "500 pcs",
+    "minOrderQty": 500,
+    "variants": [],
+    "manufacturer": "MB Plastic Industries",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/urine-container.png"
+    ],
+    "status": "Active",
+    "sortRank": 10
+  },
+  {
+    "id": "SC-60-STD",
+    "name": "Specimen Container 60ml",
+    "brand": "Third-party",
+    "category": "Sample Collection",
+    "subcategory": "Specimen",
+    "description": "General specimen container with tight sealing lid.",
+    "specs": {
+      "Material": "PP",
+      "Volume": "60 ml",
+      "Sterility": "Non-sterile"
+    },
+    "priceExGst": 8.2,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "400 pcs",
+    "minOrderQty": 400,
+    "variants": [],
+    "manufacturer": "Om Plastics",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/specimen-container-60.svg"
+    ],
+    "status": "Active",
+    "sortRank": 12
+  },
+  {
+    "id": "STC-30",
+    "name": "Stool Container 30ml",
+    "brand": "Third-party",
+    "category": "Sample Collection",
+    "subcategory": "Stool",
+    "description": "Compact stool collection container with secure cap.",
+    "specs": {
+      "Material": "PP",
+      "Volume": "30 ml",
+      "Sterility": "Non-sterile"
+    },
+    "priceExGst": 6.0,
+    "gstPercent": 18,
+    "stockStatus": "Low",
+    "packSize": "500 pcs",
+    "minOrderQty": 500,
+    "variants": [],
+    "manufacturer": "SurgiPack",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/stool-container-30.svg"
+    ],
+    "status": "Active",
+    "sortRank": 15
+  },
+  {
+    "id": "CT-15-PP",
+    "name": "Centrifuge Tube 15ml",
+    "brand": "Third-party",
+    "category": "Lab Consumables",
+    "subcategory": "Centrifuge",
+    "description": "Conical centrifuge tube with leak-proof cap.",
+    "specs": {
+      "Material": "PP",
+      "Volume": "15 ml",
+      "Sterility": "Sterile"
+    },
+    "priceExGst": 4.2,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "1000 pcs",
+    "minOrderQty": 1000,
+    "variants": [
+      {
+        "name": "Cap Type",
+        "value": "Screw"
+      }
+    ],
+    "manufacturer": "LabPro",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 18
+  },
+  {
+    "id": "CT-50-PP",
+    "name": "Centrifuge Tube 50ml",
+    "brand": "Third-party",
+    "category": "Lab Consumables",
+    "subcategory": "Centrifuge",
+    "description": "50 ml centrifuge tube for high-volume samples.",
+    "specs": {
+      "Material": "PP",
+      "Volume": "50 ml",
+      "Sterility": "Sterile"
+    },
+    "priceExGst": 6.8,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "500 pcs",
+    "minOrderQty": 500,
+    "variants": [
+      {
+        "name": "Cap Type",
+        "value": "Screw"
+      }
+    ],
+    "manufacturer": "LabPro",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 20
+  },
+  {
+    "id": "MPT-200",
+    "name": "Micropipette Tips 200ul",
+    "brand": "Third-party",
+    "category": "Lab Consumables",
+    "subcategory": "Tips",
+    "description": "Universal fit tips for 200 ul micropipettes.",
+    "specs": {
+      "Material": "PP",
+      "Volume": "200 ul",
+      "Sterility": "Non-sterile"
+    },
+    "priceExGst": 2.1,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "1000 pcs",
+    "minOrderQty": 1000,
+    "variants": [],
+    "manufacturer": "Pipetex",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/micropipette-tip.png"
+    ],
+    "status": "Active",
+    "sortRank": 22
+  },
+  {
+    "id": "MPT-1000",
+    "name": "Micropipette Tips 1000ul",
+    "brand": "Third-party",
+    "category": "Lab Consumables",
+    "subcategory": "Tips",
+    "description": "High-volume tips for 1000 ul micropipettes.",
+    "specs": {
+      "Material": "PP",
+      "Volume": "1000 ul",
+      "Sterility": "Non-sterile"
+    },
+    "priceExGst": 2.8,
+    "gstPercent": 18,
+    "stockStatus": "Low",
+    "packSize": "1000 pcs",
+    "minOrderQty": 1000,
+    "variants": [],
+    "manufacturer": "Pipetex",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/micropipette-tip.png"
+    ],
+    "status": "Active",
+    "sortRank": 25
+  },
+  {
+    "id": "TIB-RIA-12X75",
+    "name": "RIA Vials 12x75mm",
+    "brand": "Tibbix",
+    "category": "Lab Consumables",
+    "subcategory": "RIA Vials",
+    "description": "Precision RIA vials for immunoassay workflows.",
+    "specs": {
+      "Material": "Glass",
+      "Size": "12x75 mm"
+    },
+    "priceExGst": 3.9,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "1000 pcs",
+    "minOrderQty": 1000,
+    "variants": [
+      {
+        "name": "Finish",
+        "value": "Clear"
+      }
+    ],
+    "manufacturer": "Tibbix Partner",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/ria-vial.png"
+    ],
+    "status": "Active",
+    "sortRank": 5
+  },
+  {
+    "id": "TIB-RIA-12X100",
+    "name": "RIA Vials 12x100mm",
+    "brand": "Tibbix",
+    "category": "Lab Consumables",
+    "subcategory": "RIA Vials",
+    "description": "Extended length RIA vials for automated analyzers.",
+    "specs": {
+      "Material": "Glass",
+      "Size": "12x100 mm"
+    },
+    "priceExGst": 4.4,
+    "gstPercent": 18,
+    "stockStatus": "On Request",
+    "packSize": "1000 pcs",
+    "minOrderQty": 1000,
+    "variants": [],
+    "manufacturer": "Tibbix Partner",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/ria-vial.png"
+    ],
+    "status": "Active",
+    "sortRank": 6
+  },
+  {
+    "id": "MT-STD",
+    "name": "Medical Tourniquet",
+    "brand": "Third-party",
+    "category": "Medical Supplies",
+    "subcategory": "Tourniquet",
+    "description": "Reusable latex-free tourniquet for phlebotomy.",
+    "specs": {
+      "Material": "Latex-free",
+      "Type": "Reusable"
+    },
+    "priceExGst": 18.0,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "50 pcs",
+    "minOrderQty": 50,
+    "variants": [
+      {
+        "name": "Color",
+        "value": "Blue"
+      }
+    ],
+    "manufacturer": "SurgiCare",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 30
+  },
+  {
+    "id": "CS-STD",
+    "name": "Corona Swab Sticks",
+    "brand": "Third-party",
+    "category": "Medical Supplies",
+    "subcategory": "Swabs",
+    "description": "Sterile swab sticks for sample collection.",
+    "specs": {
+      "Material": "Nylon",
+      "Sterility": "Sterile"
+    },
+    "priceExGst": 3.2,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "100 pcs",
+    "minOrderQty": 100,
+    "variants": [],
+    "manufacturer": "Sterilab",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 40
+  },
+  {
+    "id": "SC-10L",
+    "name": "Sharps Container 10L",
+    "brand": "Third-party",
+    "category": "Safety",
+    "subcategory": "Sharps",
+    "description": "Puncture-resistant sharps container for clinical waste.",
+    "specs": {
+      "Capacity": "10 L",
+      "Material": "HDPE"
+    },
+    "priceExGst": 120.0,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "20 pcs",
+    "minOrderQty": 20,
+    "variants": [],
+    "manufacturer": "SafeMed",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 35
+  },
+  {
+    "id": "HWB-STD",
+    "name": "Hospital Wristband",
+    "brand": "Third-party",
+    "category": "Hospital",
+    "subcategory": "Wristbands",
+    "description": "Waterproof wristbands for patient identification.",
+    "specs": {
+      "Material": "PVC",
+      "Size": "Adult"
+    },
+    "priceExGst": 2.4,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "1000 pcs",
+    "minOrderQty": 1000,
+    "variants": [
+      {
+        "name": "Color",
+        "value": "White"
+      }
+    ],
+    "manufacturer": "Hospilink",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 28
+  },
+  {
+    "id": "BCV-EDTA-3",
+    "name": "Blood Collection Vial EDTA 3ml",
+    "brand": "Third-party",
+    "category": "Blood Collection",
+    "subcategory": "EDTA",
+    "description": "Vacuum blood collection vials with EDTA additive.",
+    "specs": {
+      "Volume": "3 ml",
+      "Additive": "EDTA"
+    },
+    "priceExGst": 6.2,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "100 pcs",
+    "minOrderQty": 100,
+    "variants": [
+      {
+        "name": "Cap Color",
+        "value": "Lavender"
+      }
+    ],
+    "manufacturer": "Vacutec",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 17
+  },
+  {
+    "id": "BCV-PLAIN-5",
+    "name": "Blood Collection Vial Plain 5ml",
+    "brand": "Third-party",
+    "category": "Blood Collection",
+    "subcategory": "Plain",
+    "description": "Plain serum collection vials with red cap.",
+    "specs": {
+      "Volume": "5 ml",
+      "Additive": "None"
+    },
+    "priceExGst": 6.0,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "100 pcs",
+    "minOrderQty": 100,
+    "variants": [
+      {
+        "name": "Cap Color",
+        "value": "Red"
+      }
+    ],
+    "manufacturer": "Vacutec",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 19
+  },
+  {
+    "id": "LAB-EQ-001",
+    "name": "Laboratory Centrifuge",
+    "brand": "Third-party",
+    "category": "Equipment",
+    "subcategory": "Centrifuge",
+    "description": "Bench-top centrifuge. Price varies by model.",
+    "specs": {
+      "Type": "Bench-top",
+      "Speed": "Variable"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "On Request",
+    "packSize": "1 unit",
+    "minOrderQty": 1,
+    "variants": [
+      {
+        "name": "Model",
+        "value": "Inquiry only"
+      }
+    ],
+    "manufacturer": "LabTech",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 50
+  },
+  {
+    "id": "LAB-EQ-002",
+    "name": "Microcentrifuge",
+    "brand": "Third-party",
+    "category": "Equipment",
+    "subcategory": "Centrifuge",
+    "description": "Compact microcentrifuge for small volume samples.",
+    "specs": {
+      "Type": "Microcentrifuge",
+      "Speed": "High"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "On Request",
+    "packSize": "1 unit",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "LabTech",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 52
+  },
+  {
+    "id": "SC-20L",
+    "name": "Sharps Container 20L",
+    "brand": "Third-party",
+    "category": "Safety",
+    "subcategory": "Sharps",
+    "description": "Large capacity sharps container for high-volume labs.",
+    "specs": {
+      "Capacity": "20 L",
+      "Material": "HDPE"
+    },
+    "priceExGst": 180.0,
+    "gstPercent": 18,
+    "stockStatus": "Low",
+    "packSize": "10 pcs",
+    "minOrderQty": 10,
+    "variants": [],
+    "manufacturer": "SafeMed",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 36
+  },
+  {
+    "id": "UC-100-STD",
+    "name": "Urine Container 100ml",
+    "brand": "Third-party",
+    "category": "Sample Collection",
+    "subcategory": "Urine",
+    "description": "Large volume container for extended tests.",
+    "specs": {
+      "Material": "PP",
+      "Volume": "100 ml",
+      "Sterility": "Non-sterile"
+    },
+    "priceExGst": 9.1,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "400 pcs",
+    "minOrderQty": 400,
+    "variants": [],
+    "manufacturer": "MB Plastic Industries",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/urine-container.png"
+    ],
+    "status": "Active",
+    "sortRank": 11
+  },
+  {
+    "id": "SWB-PED",
+    "name": "Hospital Wristband Pediatric",
+    "brand": "Third-party",
+    "category": "Hospital",
+    "subcategory": "Wristbands",
+    "description": "Soft, waterproof pediatric wristbands.",
+    "specs": {
+      "Material": "PVC",
+      "Size": "Pediatric"
+    },
+    "priceExGst": 2.2,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "1000 pcs",
+    "minOrderQty": 1000,
+    "variants": [
+      {
+        "name": "Color",
+        "value": "Pink"
+      }
+    ],
+    "manufacturer": "Hospilink",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 29
+  },
+  {
+    "id": "MPT-10",
+    "name": "Micropipette Tips 10ul",
+    "brand": "Third-party",
+    "category": "Lab Consumables",
+    "subcategory": "Tips",
+    "description": "Low-retention tips for 10 ul micropipettes.",
+    "specs": {
+      "Material": "PP",
+      "Volume": "10 ul",
+      "Sterility": "Non-sterile"
+    },
+    "priceExGst": 1.9,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "1000 pcs",
+    "minOrderQty": 1000,
+    "variants": [],
+    "manufacturer": "Pipetex",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/micropipette-tip.png"
+    ],
+    "status": "Active",
+    "sortRank": 23
+  },
+  {
+    "id": "BCV-FLUOR-3",
+    "name": "Blood Collection Vial Fluoride 3ml",
+    "brand": "Third-party",
+    "category": "Blood Collection",
+    "subcategory": "Fluoride",
+    "description": "Fluoride oxalate vials for glucose testing.",
+    "specs": {
+      "Volume": "3 ml",
+      "Additive": "Fluoride"
+    },
+    "priceExGst": 6.5,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "100 pcs",
+    "minOrderQty": 100,
+    "variants": [
+      {
+        "name": "Cap Color",
+        "value": "Grey"
+      }
+    ],
+    "manufacturer": "Vacutec",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 21
+  },
+  {
+    "id": "LAB-EQ-003",
+    "name": "Laboratory Incubator",
+    "brand": "Third-party",
+    "category": "Equipment",
+    "subcategory": "Incubator",
+    "description": "Temperature controlled incubator. Quote on request.",
+    "specs": {
+      "Temperature Range": "Ambient to 60C"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "On Request",
+    "packSize": "1 unit",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "LabTech",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 54
+  },
+  {
+    "id": "STC-60",
+    "name": "Stool Container 60ml",
+    "brand": "Third-party",
+    "category": "Sample Collection",
+    "subcategory": "Stool",
+    "description": "Medium capacity stool collection container.",
+    "specs": {
+      "Material": "PP",
+      "Volume": "60 ml",
+      "Sterility": "Non-sterile"
+    },
+    "priceExGst": 7.0,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "400 pcs",
+    "minOrderQty": 400,
+    "variants": [],
+    "manufacturer": "SurgiPack",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 16
+  },
+  {
+    "id": "CS-STER-100",
+    "name": "Sterile Swab Sticks 100mm",
+    "brand": "Third-party",
+    "category": "Medical Supplies",
+    "subcategory": "Swabs",
+    "description": "Individually wrapped sterile swab sticks.",
+    "specs": {
+      "Length": "100 mm",
+      "Sterility": "Sterile"
+    },
+    "priceExGst": 3.6,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "100 pcs",
+    "minOrderQty": 100,
+    "variants": [],
+    "manufacturer": "Sterilab",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 41
+  },
+  {
+    "id": "HWB-QR",
+    "name": "Hospital Wristband with QR",
+    "brand": "Third-party",
+    "category": "Hospital",
+    "subcategory": "Wristbands",
+    "description": "QR enabled wristbands for patient traceability.",
+    "specs": {
+      "Material": "PVC",
+      "Size": "Adult"
+    },
+    "priceExGst": 3.6,
+    "gstPercent": 18,
+    "stockStatus": "On Request",
+    "packSize": "500 pcs",
+    "minOrderQty": 500,
+    "variants": [],
+    "manufacturer": "Hospilink",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 31
+  },
+  {
+    "id": "CT-2-ML",
+    "name": "Microcentrifuge Tube 2ml",
+    "brand": "Third-party",
+    "category": "Lab Consumables",
+    "subcategory": "Centrifuge",
+    "description": "2 ml microcentrifuge tube with snap cap.",
+    "specs": {
+      "Material": "PP",
+      "Volume": "2 ml",
+      "Sterility": "Non-sterile"
+    },
+    "priceExGst": 1.4,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "1000 pcs",
+    "minOrderQty": 1000,
+    "variants": [],
+    "manufacturer": "LabPro",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 24
+  },
+  {
+    "id": "RIA-RACK",
+    "name": "RIA Vial Rack",
+    "brand": "Tibbix",
+    "category": "Lab Consumables",
+    "subcategory": "Accessories",
+    "description": "Rack for organizing RIA vials in analyzer workflow.",
+    "specs": {
+      "Capacity": "50 vials",
+      "Material": "ABS"
+    },
+    "priceExGst": 55.0,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "20 pcs",
+    "minOrderQty": 20,
+    "variants": [],
+    "manufacturer": "Tibbix Partner",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/placeholder.svg"
+    ],
+    "status": "Active",
+    "sortRank": 8
+  }
+]
+

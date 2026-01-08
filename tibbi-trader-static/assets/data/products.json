@@ -1,0 +1,755 @@
+[
+  {
+    "id": "LC-003",
+    "name": "MICROSCOPIC GLASS SLIDE (IMPORTED)",
+    "brand": "BOROSIL",
+    "category": "Glassware & Capillaries",
+    "subcategory": "",
+    "description": "Imported microscopic glass slide for laboratory use.",
+    "specs": {
+      "Size": "75x25x1.25 mm",
+      "Material": "Glass",
+      "Packaging": "50 pcs"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "50 pcs",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "BOROSIL",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Microscopic Glass Slide.png"
+    ],
+    "status": "Active",
+    "sortRank": 3
+  },
+  {
+    "id": "LC-016",
+    "name": "URINE CONTAINER",
+    "brand": "MISC",
+    "category": "Sample Collection Containers",
+    "subcategory": "",
+    "description": "Polypropylene urine container with screw cap; label and packing options.",
+    "specs": {
+      "Material": "Polypropylene",
+      "Cap Type": "Screw",
+      "Label": "Optional"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [
+      {
+        "name": "Option",
+        "value": "30 mL / No label / 100 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "30 mL / Label / 100 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "30 mL / Individually packed / Label / 100 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "50 mL / Individually packed / Label / 100 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "100 mL / Individually packed / Label / 100 pcs"
+      }
+    ],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/URINE CONTAINER.png"
+    ],
+    "status": "Active",
+    "sortRank": 16
+  },
+  {
+    "id": "LC-019",
+    "name": "RIA VIAL",
+    "brand": "MISC",
+    "category": "Blood Collection & RIA Vials",
+    "subcategory": "",
+    "description": "RIA vial for laboratory use.",
+    "specs": {
+      "Size": "12x75 mm",
+      "Capacity": "5 mL",
+      "Material": "Polystyrene",
+      "Packaging": "500 pcs"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "500 pcs",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/RIA Vial.png"
+    ],
+    "status": "Active",
+    "sortRank": 19
+  },
+  {
+    "id": "LC-025",
+    "name": "MICROPIPETTE TIP (PLAIN/GRADUATED)",
+    "brand": "MISC",
+    "category": "Micropipette Tips & Accessories",
+    "subcategory": "",
+    "description": "Polypropylene micropipette tips with multiple sizes and colors.",
+    "specs": {
+      "Material": "Polypropylene",
+      "Sterile": "No"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [
+      {
+        "name": "Option",
+        "value": "1000 uL / Blue / 500 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "1000 uL / White / 500 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "200 uL / White / 1000 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "200 uL / Yellow / 1000 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "10 uL / White / 1000 pcs"
+      }
+    ],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Micropipette Tips.png",
+      "assets/images/MICROPIPETTE TIP 1000 UL.png"
+    ],
+    "status": "Active",
+    "sortRank": 25
+  },
+  {
+    "id": "LC-026",
+    "name": "STOOL CONTAINER (50 ml)",
+    "brand": "MISC",
+    "category": "Sample Collection Containers",
+    "subcategory": "",
+    "description": "50 ml polypropylene stool container with screw cap and label.",
+    "specs": {
+      "Size": "50 ml",
+      "Material": "Polypropylene",
+      "Pack size": "100 pcs",
+      "Cap": "Screw cap with label"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "100 pcs",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/stool container.png"
+    ],
+    "status": "Active",
+    "sortRank": 26
+  },
+  {
+    "id": "LC-027",
+    "name": "FILTER TIP WITH RACK (DNA/RNA FREE)",
+    "brand": "MISC",
+    "category": "Micropipette Tips & Accessories",
+    "subcategory": "",
+    "description": "DNA/RNA free filter tips with rack.",
+    "specs": {
+      "Material": "Polypropylene",
+      "Sterile": "Yes",
+      "Rack": "Included"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [
+      {
+        "name": "Option",
+        "value": "1000 uL / 100 tips"
+      },
+      {
+        "name": "Option",
+        "value": "200 uL / 96 tips"
+      },
+      {
+        "name": "Option",
+        "value": "100 uL / 96 tips"
+      },
+      {
+        "name": "Option",
+        "value": "20 uL / 96 tips"
+      },
+      {
+        "name": "Option",
+        "value": "10 uL / 96 tips"
+      }
+    ],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/FilterTipWithRackDnaRnaFree.jpg",
+      "assets/images/Filter Tip with Rack DNA-RNA Free.png"
+    ],
+    "status": "Active",
+    "sortRank": 27
+  },
+  {
+    "id": "MPT-BOX",
+    "name": "MICROPIPETTE TIP BOX",
+    "brand": "MISC",
+    "category": "Micropipette Tips & Accessories",
+    "subcategory": "",
+    "description": "Micropipette tip box with multiple size options.",
+    "specs": {
+      "Material": "Polypropylene"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [
+      {
+        "name": "Option",
+        "value": "10-200 uL / 96 wells"
+      },
+      {
+        "name": "Option",
+        "value": "1000 uL / 60 wells"
+      }
+    ],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Micropipette Tip Box.png"
+    ],
+    "status": "Active",
+    "sortRank": 28
+  },
+  {
+    "id": "TUBE-MICRO",
+    "name": "MICROCENTRIFUGE TUBE",
+    "brand": "MISC",
+    "category": "Tubes and Dishes",
+    "subcategory": "",
+    "description": "Polypropylene microcentrifuge tubes in multiple sizes.",
+    "specs": {
+      "Material": "Polypropylene"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [
+      {
+        "name": "Option",
+        "value": "0.2 mL / 1000 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "0.5 mL / 1000 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "1.5 mL / 500 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "2.0 mL / 500 pcs"
+      }
+    ],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Microcentrifuge Tube.png"
+    ],
+    "status": "Active",
+    "sortRank": 29
+  },
+  {
+    "id": "TUBE-CENTRIFUGE",
+    "name": "CENTRIFUGE TUBE (BULK)",
+    "brand": "MISC",
+    "category": "Tubes and Dishes",
+    "subcategory": "",
+    "description": "Bulk centrifuge tubes for laboratory use.",
+    "specs": {
+      "Material": "Polypropylene"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [
+      {
+        "name": "Option",
+        "value": "15 mL / 100 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "50 mL / 100 pcs"
+      }
+    ],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Centrifuge Tube.png"
+    ],
+    "status": "Active",
+    "sortRank": 30
+  },
+  {
+    "id": "PETRI-DISH",
+    "name": "PETRI DISH",
+    "brand": "MISC",
+    "category": "Tubes and Dishes",
+    "subcategory": "",
+    "description": "Polypropylene petri dishes for culture growth.",
+    "specs": {
+      "Material": "Polypropylene"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [
+      {
+        "name": "Option",
+        "value": "90x15 mm / 450 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "140x15 mm / 120 pcs"
+      }
+    ],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Petri_Dish.jpg"
+    ],
+    "status": "Active",
+    "sortRank": 31
+  },
+  {
+    "id": "GLASS-TUBE-RB",
+    "name": "ROUND BOTTOM GLASS TEST TUBE",
+    "brand": "MISC",
+    "category": "Tubes and Dishes",
+    "subcategory": "",
+    "description": "Round bottom glass test tubes in standard sizes.",
+    "specs": {
+      "Material": "Glass"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [
+      {
+        "name": "Option",
+        "value": "12x75 mm / 500 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "12x100 mm / 500 pcs"
+      }
+    ],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Round_Bottom_Glass_Test_Tube.jpg"
+    ],
+    "status": "Active",
+    "sortRank": 32
+  },
+  {
+    "id": "SWAB-WOOD",
+    "name": "WOODEN SWAB STICK",
+    "brand": "MISC",
+    "category": "Swab Sticks",
+    "subcategory": "",
+    "description": "Wooden swab sticks in multiple pack types.",
+    "specs": {
+      "Material": "Wooden",
+      "Length": "6 inch"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [
+      {
+        "name": "Option",
+        "value": "Bulk / 100 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "Individual / 100 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "Tube / 100 pcs"
+      }
+    ],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Wooden_Swab_Stick_With_Tube_6inch_10kb.jpg"
+    ],
+    "status": "Active",
+    "sortRank": 33
+  },
+  {
+    "id": "SWAB-PLASTIC",
+    "name": "PLASTIC SWAB STICK",
+    "brand": "MISC",
+    "category": "Swab Sticks",
+    "subcategory": "",
+    "description": "Plastic swab sticks in multiple pack types.",
+    "specs": {
+      "Material": "Plastic",
+      "Length": "6 inch"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [
+      {
+        "name": "Option",
+        "value": "Bulk / 100 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "Individual / 100 pcs"
+      },
+      {
+        "name": "Option",
+        "value": "Tube / 100 pcs"
+      }
+    ],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Plastic Swab Stick.png",
+      "assets/images/Plastic Swab Stick with Tube 6 inch.png"
+    ],
+    "status": "Active",
+    "sortRank": 34
+  },
+  {
+    "id": "CAP-HEPARIN",
+    "name": "CAPILLARY TUBE SODIUM HEPARIN (RED CAP)",
+    "brand": "MISC",
+    "category": "Glassware & Capillaries",
+    "subcategory": "",
+    "description": "Capillary tube with sodium heparin, red cap.",
+    "specs": {
+      "Cap Color": "Red",
+      "Material": "Glass"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "100 pcs",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Capillary_Tubes_Red_Cap_25kb.jpg"
+    ],
+    "status": "Active",
+    "sortRank": 37
+  },
+  {
+    "id": "CAP-NONHEPARIN",
+    "name": "CAPILLARY TUBE SODIUM NON-HEPARIN (BLUE CAP)",
+    "brand": "MISC",
+    "category": "Glassware & Capillaries",
+    "subcategory": "",
+    "description": "Capillary tube without heparin, blue cap.",
+    "specs": {
+      "Cap Color": "Blue",
+      "Material": "Glass"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "100 pcs",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Capillary_Tubes_Blue_Cap_25kb.jpg"
+    ],
+    "status": "Active",
+    "sortRank": 38
+  },
+  {
+    "id": "ESR-PIPETTE",
+    "name": "DISPOSABLE ESR PIPETTE",
+    "brand": "MISC",
+    "category": "ESR & Accessories",
+    "subcategory": "",
+    "description": "Disposable ESR pipette, transparent.",
+    "specs": {
+      "Material": "Polystyrene",
+      "Notes": "Transparent"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "100 pcs",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Disposable ESR Pipette.png"
+    ],
+    "status": "Active",
+    "sortRank": 39
+  },
+  {
+    "id": "ESR-WESTERGREN",
+    "name": "ESR WESTERGREN",
+    "brand": "MISC",
+    "category": "ESR & Accessories",
+    "subcategory": "",
+    "description": "ESR Westergren tube, transparent.",
+    "specs": {
+      "Material": "Glass",
+      "Notes": "Transparent"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "24 pcs",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/ESR Westergren.png"
+    ],
+    "status": "Active",
+    "sortRank": 40
+  },
+  {
+    "id": "ESR-WINTHROBE",
+    "name": "ESR WINTHROBE",
+    "brand": "MISC",
+    "category": "ESR & Accessories",
+    "subcategory": "",
+    "description": "ESR Winthrobe tube, transparent.",
+    "specs": {
+      "Material": "Glass",
+      "Notes": "Transparent"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "200 pcs",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/ESR Winthrobe.png"
+    ],
+    "status": "Active",
+    "sortRank": 41
+  },
+  {
+    "id": "ESR-STAND-DISPOSABLE",
+    "name": "DISPOSABLE ESR STAND",
+    "brand": "MISC",
+    "category": "ESR & Accessories",
+    "subcategory": "",
+    "description": "Disposable ESR stand.",
+    "specs": {
+      "Material": "Plastic",
+      "Capacity": "12 holes"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Per piece",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Disposable ESR Stand.png"
+    ],
+    "status": "Active",
+    "sortRank": 42
+  },
+  {
+    "id": "ESR-STAND-WESTERGREN",
+    "name": "ESR WESTERGREN STAND",
+    "brand": "MISC",
+    "category": "ESR & Accessories",
+    "subcategory": "",
+    "description": "ESR Westergren stand.",
+    "specs": {
+      "Material": "Iron",
+      "Capacity": "6 holes"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Per piece",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/ESR Westergren Stand.png"
+    ],
+    "status": "Active",
+    "sortRank": 43
+  },
+  {
+    "id": "ESR-STAND-WINTHROBE",
+    "name": "ESR WINTHROBE STAND",
+    "brand": "MISC",
+    "category": "ESR & Accessories",
+    "subcategory": "",
+    "description": "ESR Winthrobe stand.",
+    "specs": {
+      "Material": "Iron",
+      "Capacity": "6 holes"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Per piece",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/ESR Winthrobe Stand.png"
+    ],
+    "status": "Active",
+    "sortRank": 44
+  },
+  {
+    "id": "K3-EDTA-VIAL",
+    "name": "K3 EDTA VIAL",
+    "brand": "MISC",
+    "category": "Blood Collection & RIA Vials",
+    "subcategory": "",
+    "description": "K3 EDTA vial, double non-vacuum cap.",
+    "specs": {
+      "Size": "13x75 mm",
+      "Capacity": "2 mL",
+      "Cap Type": "Double, Non-vacuum",
+      "Material": "Plastic"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "100 pcs",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/K3 EDTA Vial.png"
+    ],
+    "status": "Active",
+    "sortRank": 45
+  },
+  {
+    "id": "CLOT-ACTIVATOR",
+    "name": "CLOT ACTIVATOR",
+    "brand": "MISC",
+    "category": "Blood Collection & RIA Vials",
+    "subcategory": "",
+    "description": "Clot activator vial, double non-vacuum cap.",
+    "specs": {
+      "Size": "13x75 mm",
+      "Capacity": "4 mL",
+      "Cap Type": "Double, Non-vacuum",
+      "Material": "Plastic"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "100 pcs",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Clot Activator.png"
+    ],
+    "status": "Active",
+    "sortRank": 46
+  },
+  {
+    "id": "FLUORIDE-OXALATE",
+    "name": "FLUORIDE OXALATE",
+    "brand": "MISC",
+    "category": "Blood Collection & RIA Vials",
+    "subcategory": "",
+    "description": "Fluoride oxalate vial, double non-vacuum cap.",
+    "specs": {
+      "Size": "13x75 mm",
+      "Capacity": "2 mL",
+      "Cap Type": "Double, Non-vacuum",
+      "Material": "Plastic"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "100 pcs",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Fluoride Oxalate.png"
+    ],
+    "status": "Active",
+    "sortRank": 47
+  }
+]
