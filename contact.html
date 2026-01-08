@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tibbi Traders | Contact</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap"
+    />
+    <link rel="stylesheet" href="assets/css/style.css?v=3" />
+  </head>
+  <body>
+    <header id="site-header" class="header"></header>
+
+    <main>
+      <section class="section">
+        <div class="container">
+          <h1 class="font-display" style="margin: 0; font-size: 32px;">Contact</h1>
+          <p class="muted" style="margin-top: 8px;">Reach the Tibbi Traders team for procurement or support.</p>
+
+          <div class="grid-2" style="margin-top: 24px;">
+            <div class="card" style="padding: 20px;">
+              <h3 class="font-display" style="margin-top: 0;">Contact details</h3>
+              <ul class="muted" style="list-style: none; padding: 0; margin: 12px 0 0; display: grid; gap: 8px;">
+                <li>Phone: <span id="contact-phone">XXXXXXXXXX</span></li>
+                <li>Email: <span id="contact-email">hello@tibbitraders.com</span></li>
+                <li>WhatsApp: <span id="contact-whatsapp">91XXXXXXXXXX</span></li>
+                <li>Address: <span id="contact-address">Ranchi, Jharkhand, India</span></li>
+              </ul>
+            </div>
+            <div class="card" style="padding: 20px;">
+              <h3 class="font-display" style="margin-top: 0;">Business hours</h3>
+              <p class="muted">Monday to Saturday: 9:00 AM - 7:00 PM</p>
+              <p class="muted">Emergency support available for critical lab operations.</p>
+              <a class="btn-secondary" style="margin-top: 12px;" href="quote.html">Request a quote</a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer id="site-footer" class="footer"></footer>
+
+    <script src="assets/js/app.js"></script>
+    <script src="assets/js/store.js"></script>
+    <script src="assets/js/layout.js?v=2"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const config = window.TIBBI_CONFIG;
+        document.getElementById("contact-phone").textContent = config.contactPhone;
+        document.getElementById("contact-email").textContent = config.contactEmail;
+        document.getElementById("contact-whatsapp").textContent = config.whatsapp;
+        document.getElementById("contact-address").textContent = config.address;
+      });
+    </script>
+  </body>
+</html>
+
+
