@@ -4,7 +4,7 @@
     brand: "Tibbix",
     description:
       "B2B supplier of medical and laboratory consumables with reliable availability and compliance-first documentation.",
-    url: "https://tibbitraders.com",
+    url: "https://www.tibbitraders.com",
     contactEmail: "contact@tibbitraders.com",
     contactPhone: "7903431904",
     whatsapp: "917903431904",
