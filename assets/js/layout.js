@@ -73,6 +73,7 @@
           <div style="display: flex; gap: 10px; flex-wrap: wrap;">
             <a class="btn-ghost" href="cart.html">${icons.cart}<span>Cart</span></a>
             <a class="btn-secondary call-link" href="tel:${config.contactPhone}">${icons.phone}<span>${config.contactPhone}</span></a>
+            <a class="icon-only" href="https://wa.me/${config.whatsapp}" aria-label="WhatsApp">${icons.whatsapp}</a>
           </div>
         </div>
       </div>

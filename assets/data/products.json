@@ -329,12 +329,12 @@
     "sortRank": 30
   },
   {
-    "id": "PETRI-DISH",
-    "name": "PETRI DISH",
+    "id": "PETRI-DISC",
+    "name": "PETRI DISC",
     "brand": "MISC",
     "category": "Tubes and Dishes",
     "subcategory": "",
-    "description": "Polypropylene petri dishes for culture growth.",
+    "description": "Polypropylene petri discs for culture growth.",
     "specs": {
       "Material": "Polypropylene"
     },
@@ -356,7 +356,7 @@
     "manufacturer": "MISC",
     "manufacturerLocation": "India",
     "images": [
-      "assets/images/Petri_Dish.jpg"
+      "assets/images/Petri_Disc.jpg"
     ],
     "status": "Active",
     "sortRank": 31
@@ -751,5 +751,173 @@
     ],
     "status": "Active",
     "sortRank": 47
+  },
+  {
+    "id": "MICRO-BLOOD-AGAR-BASE",
+    "name": "BLOOD AGAR BASE 2",
+    "brand": "MISC",
+    "category": "Microbiology",
+    "subcategory": "",
+    "description": "Dehydrated blood agar base for routine culture work.",
+    "specs": {
+      "Type": "Culture media"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Blood Agar Base 2.png"
+    ],
+    "status": "Active",
+    "sortRank": 48
+  },
+  {
+    "id": "MICRO-BLOOD-CULTURE-ADULT",
+    "name": "BLOOD CULTURE - ADULT",
+    "brand": "MISC",
+    "category": "Microbiology",
+    "subcategory": "",
+    "description": "Blood culture bottle for adult samples.",
+    "specs": {
+      "Type": "Culture bottle"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Blood Culture -Adult.png"
+    ],
+    "status": "Active",
+    "sortRank": 49
+  },
+  {
+    "id": "MICRO-DISTILLED-WATER",
+    "name": "DISTILLED WATER",
+    "brand": "MISC",
+    "category": "Microbiology",
+    "subcategory": "",
+    "description": "Distilled water for microbiology preparation and dilution.",
+    "specs": {
+      "Type": "Laboratory water"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Disstilled Water.png"
+    ],
+    "status": "Active",
+    "sortRank": 50
+  },
+  {
+    "id": "MICRO-HI-CHROME-UTI-AGAR",
+    "name": "HI-CHROME UTI AGAR",
+    "brand": "MISC",
+    "category": "Microbiology",
+    "subcategory": "",
+    "description": "Chromogenic UTI agar for differentiation of urinary pathogens.",
+    "specs": {
+      "Type": "Chromogenic media"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Hi -Chrome UTI Agar.png"
+    ],
+    "status": "Active",
+    "sortRank": 51
+  },
+  {
+    "id": "MICRO-MACCONKEY-AGAR",
+    "name": "MACCONKEY AGAR",
+    "brand": "MISC",
+    "category": "Microbiology",
+    "subcategory": "",
+    "description": "Selective media for Gram-negative enteric bacteria.",
+    "specs": {
+      "Type": "Selective media"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Macconkey Agar.png"
+    ],
+    "status": "Active",
+    "sortRank": 52
+  },
+  {
+    "id": "MICRO-MULLER-HILTON-AGAR",
+    "name": "MULLER HILTON AGAR",
+    "brand": "MISC",
+    "category": "Microbiology",
+    "subcategory": "",
+    "description": "Agar media for antimicrobial susceptibility testing.",
+    "specs": {
+      "Type": "Susceptibility media"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Muller Hilton Agar.png"
+    ],
+    "status": "Active",
+    "sortRank": 53
+  },
+  {
+    "id": "SWAB-STICK-TUBE",
+    "name": "SWAB STICK TUBE",
+    "brand": "MISC",
+    "category": "Tubes and Dishes",
+    "subcategory": "",
+    "description": "Swab stick tube for sample collection and transport.",
+    "specs": {
+      "Material": "Plastic"
+    },
+    "priceExGst": null,
+    "gstPercent": 18,
+    "stockStatus": "In Stock",
+    "packSize": "Varies",
+    "minOrderQty": 1,
+    "variants": [],
+    "manufacturer": "MISC",
+    "manufacturerLocation": "India",
+    "images": [
+      "assets/images/Swab Stick Tube.png"
+    ],
+    "status": "Active",
+    "sortRank": 54
   }
 ]

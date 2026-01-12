@@ -1204,7 +1204,7 @@
     "id": "TUBE-MICRO",
     "name": "MICROCENTRIFUGE TUBE",
     "brand": "MISC",
-    "category": "Tubes and Dishes",
+    "category": "Tubes and DISCes",
     "subcategory": "",
     "description": "Polypropylene microcentrifuge tubes in multiple sizes.",
     "specs": {
@@ -1245,7 +1245,7 @@
     "id": "TUBE-CENTRIFUGE",
     "name": "CENTRIFUGE TUBE (BULK)",
     "brand": "MISC",
-    "category": "Tubes and Dishes",
+    "category": "Tubes and DISCes",
     "subcategory": "",
     "description": "Bulk centrifuge tubes for laboratory use.",
     "specs": {
@@ -1275,12 +1275,12 @@
     "sortRank": 30
   },
   {
-    "id": "PETRI-DISH",
-    "name": "PETRI DISH",
+    "id": "PETRI-DISC",
+    "name": "PETRI DISC",
     "brand": "MISC",
-    "category": "Tubes and Dishes",
+    "category": "Tubes and DISCes",
     "subcategory": "",
-    "description": "Polypropylene petri dishes for culture growth.",
+    "description": "Polypropylene petri DISCes for culture growth.",
     "specs": {
       "Material": "Polypropylene"
     },
@@ -1302,7 +1302,7 @@
     "manufacturer": "MISC",
     "manufacturerLocation": "India",
     "images": [
-      "assets/images/Petri_Dish.jpg"
+      "assets/images/Petri_DISC.jpg"
     ],
     "status": "Active",
     "sortRank": 31
@@ -1311,7 +1311,7 @@
     "id": "GLASS-TUBE-RB",
     "name": "ROUND BOTTOM GLASS TEST TUBE",
     "brand": "MISC",
-    "category": "Tubes and Dishes",
+    "category": "Tubes and DISCes",
     "subcategory": "",
     "description": "Round bottom glass test tubes in standard sizes.",
     "specs": {
