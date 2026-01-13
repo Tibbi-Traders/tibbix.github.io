@@ -15,6 +15,44 @@
     form.setAttribute("action", endpoint);
   }
 
+  function isMobileDevice() {
+    return /Android|iPhone|iPad|iPod|Windows Phone/i.test(navigator.userAgent);
+  }
+
+  function buildEmailBody(formData, items) {
+    return encodeURIComponent(
+      `Name: ${formData.get("customerName")}\nEmail: ${formData.get("customerEmail")}\nPhone: ${formData.get("customerPhone")}\nCompany: ${formData.get("companyName")}\n\nItems:\n${items
+        .map((item) => `${item.name} (${item.id}) x ${item.quantity}`)
+        .join("\n")}\n\nNotes:\n${formData.get("notes") || ""}`
+    );
+  }
+
+  function openGmail(subject, body) {
+    const mailto = `mailto:${contactEmail}?subject=${subject}&body=${body}`;
+    if (!contactEmail) return false;
+
+    if (/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+      const gmailIos = `googlegmail://co?to=${encodeURIComponent(contactEmail)}&subject=${subject}&body=${body}`;
+      window.location.href = gmailIos;
+      setTimeout(() => {
+        window.location.href = mailto;
+      }, 400);
+      return true;
+    }
+
+    if (/Android/i.test(navigator.userAgent)) {
+      const gmailAndroid = `intent://sendto/?to=${encodeURIComponent(contactEmail)}&subject=${subject}&body=${body}#Intent;scheme=mailto;package=com.google.android.gm;end`;
+      window.location.href = gmailAndroid;
+      setTimeout(() => {
+        window.location.href = mailto;
+      }, 400);
+      return true;
+    }
+
+    window.location.href = mailto;
+    return true;
+  }
+
   function renderSummary() {
     if (!summary) return;
     const items = window.tibbiStore.getCart();
@@ -59,19 +97,26 @@
       cartField.value = JSON.stringify(items);
     }
 
+    const formData = new FormData(form);
+    const subject = encodeURIComponent("Quote request - Tibbi Traders");
+    const body = buildEmailBody(formData, items);
+
+    if (isMobileDevice()) {
+      event.preventDefault();
+      if (!openGmail(subject, body)) {
+        showStatus("Quote submission is not configured yet. Add a contact email.", "error");
+        return;
+      }
+      showStatus("Opening Gmail app for the quote request...", "success");
+      return;
+    }
+
     if (!hasEndpoint) {
       event.preventDefault();
       if (!contactEmail) {
         showStatus("Quote submission is not configured yet. Add a form endpoint or contact email.", "error");
         return;
       }
-      const formData = new FormData(form);
-      const subject = encodeURIComponent("Quote request - Tibbi Traders");
-      const body = encodeURIComponent(
-        `Name: ${formData.get("customerName")}\nEmail: ${formData.get("customerEmail")}\nPhone: ${formData.get("customerPhone")}\nCompany: ${formData.get("companyName")}\n\nItems:\n${items
-          .map((item) => `${item.name} (${item.id}) x ${item.quantity}`)
-          .join("\n")}\n\nNotes:\n${formData.get("notes") || ""}`
-      );
       showStatus("Opening your email client for the quote request...", "success");
       window.location.href = `mailto:${contactEmail}?subject=${subject}&body=${body}`;
       return;
