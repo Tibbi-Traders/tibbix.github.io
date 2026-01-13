@@ -5,12 +5,12 @@
     description:
       "B2B supplier of medical and laboratory consumables with reliable availability and compliance-first documentation.",
     url: "https://www.tibbitraders.com",
-    contactEmail: "contact@tibbitraders.com",
+    contactEmail: "tibbitraders1@gmail.com",
     contactPhone: "7903431904",
     whatsapp: "917903431904",
     address: "Ranchi, Jharkhand, India",
     serviceArea: "Jharkhand and adjacent states",
-    quoteEndpoint: "https://formspree.io/f/REPLACE_ME"
+    quoteEndpoint: "https://formsubmit.co/tibbitraders1@gmail.com"
   };
 
   function escapeHtml(value) {
